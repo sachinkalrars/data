@@ -1,0 +1,9 @@
+{
+	"name": "tmpxyz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f54e403d-1f08-465c-8fc0-0e23cab5fcb4",
+		"tenantId": "bb466cbb-621c-493b-8374-6c8f26dc6a18"
+	}
+}
